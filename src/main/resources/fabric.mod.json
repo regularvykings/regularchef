@@ -1,0 +1,42 @@
+ {
+  "schemaVersion": 1,
+  "id": "regularchef",
+  "version": "${version}",
+
+  "name": "Regular Chef and a Hat",
+  "description": "This mod is all about food, cooking, farming, and most importantly, a hat!",
+  "authors": [
+    "turtlethefish",
+    "WholeWizard"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.turtlethefish.regularchef.RegularChef"
+    ],
+    "client": [
+      "net.turtlethefish.regularchef.RegularChefClient"
+    ]
+  },
+  "mixins": [
+    "regularchef.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
