@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "regularchef:block/dill_crop_block_stage3"
+  }
+}

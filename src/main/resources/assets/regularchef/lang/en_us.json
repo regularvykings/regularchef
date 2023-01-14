@@ -1,0 +1,18 @@
+{
+  "item.regularchef.potato_slice": "Potato Slice",
+  "item.regularchef.baked_potato_slice": "Baked Potato Slice",
+  "item.regularchef.pringle": "Pringle",
+
+  "item.regularchef.fried_egg": "Fried Egg",
+
+  "item.regularchef.dill_seeds": "Dill Seeds",
+  "item.regularchef.dill": "Dill",
+
+  "item.regularchef.caramel": "Caramel",
+
+  "item.regularchef.salt_crystal": "Salt Crystal",
+  "item.regularchef.salt": "Salt",
+  // "block.regularchef.salt_deposit": "Salt Deposit",
+
+  "itemGroup.regularchef.regularchefgroup": "Regular Chef and a Hat"
+}
