@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "group": "caramel",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "regularchef:caramel"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "regularchef:caramel_sauce"
+  }
+}

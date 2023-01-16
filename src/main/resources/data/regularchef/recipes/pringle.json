@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "group": "potato",
+  "ingredients": [
+    {
+      "item": "regularchef:salt_powder"
+    },
+    {
+      "item": "regularchef:baked_potato_slice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "regularchef:pringle"
+  }
+}

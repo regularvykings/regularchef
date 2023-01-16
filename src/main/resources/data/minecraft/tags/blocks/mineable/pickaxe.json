@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "regularchef:salt_deposit",
+    "regularchef:deepslate_salt_deposit"
+  ]
+}

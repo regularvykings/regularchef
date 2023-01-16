@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "regularchef:item/salt"
+        "layer0": "regularchef:item/salt_powder"
     }
 }

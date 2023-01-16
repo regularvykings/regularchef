@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "group": "salt",
+  "ingredients": [
+    {
+      "item": "regularchef:salt_crystal"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "regularchef:salt_powder"
+  }
+}

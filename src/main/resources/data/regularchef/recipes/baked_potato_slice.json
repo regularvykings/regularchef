@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 40,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "regularchef:potato_slice"
+  },
+  "result": "regularchef:baked_potato_slice"
+}

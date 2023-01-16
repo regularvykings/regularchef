@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "group": "potato",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "regularchef:potato_slice"
+  }
+}

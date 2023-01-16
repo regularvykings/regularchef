@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "group": "salt",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "regularchef:baked_potato_slice"
+  }
+}

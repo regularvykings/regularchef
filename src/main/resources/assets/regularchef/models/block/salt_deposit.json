@@ -1,6 +1,5 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "regularchef:block/salt_deposit"
-    } 
+{"parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "regularchef:block/salt_deposit"
+  }
 }

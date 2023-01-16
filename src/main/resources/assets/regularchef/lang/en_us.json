@@ -1,18 +1,21 @@
 {
+  "item.regularchef.salt_powder": "Salt Powder",
+  "item.regularchef.salt_crystal": "Salt Crystal",
+  "block.regularchef.salt_deposit": "Salt Deposit",
+  "block.regularchef.deepslate_salt_deposit": "Deepslate Salt Deposit",
+
+  "item.regularchef.caramel": "Caramel",
+  "item.regularchef.caramel_sauce": "Caramel Sauce",
+  "item.regularchef.baked_apple": "Baked Apple",
+
+  "item.regularchef.dill": "Dill",
+  "item.regularchef.fried_egg": "Fried Egg",
   "item.regularchef.potato_slice": "Potato Slice",
   "item.regularchef.baked_potato_slice": "Baked Potato Slice",
   "item.regularchef.pringle": "Pringle",
 
-  "item.regularchef.fried_egg": "Fried Egg",
-
   "item.regularchef.dill_seeds": "Dill Seeds",
-  "item.regularchef.dill": "Dill",
 
-  "item.regularchef.caramel": "Caramel",
-
-  "item.regularchef.salt_crystal": "Salt Crystal",
-  "item.regularchef.salt": "Salt",
-  // "block.regularchef.salt_deposit": "Salt Deposit",
 
   "itemGroup.regularchef.regularchefgroup": "Regular Chef and a Hat"
 }
